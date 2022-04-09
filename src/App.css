@@ -1,0 +1,75 @@
+body{
+  padding: 0;
+  margin: 0;
+}
+
+.header, .footer{
+  background-color: rgba(6, 27, 85, 0.664);
+  padding: 10px;
+  text-align: center;
+  color: #fff;
+}
+
+.header h1{
+  font-family: 'Arimo', sans-serif;
+  font-weight: 700;
+  font-size: 2.6em;
+}
+.header p{
+  font-family: 'Nunito Sans', sans-serif;
+  font-weight: 600;
+  font-size: 1.2em;
+}
+.idea-title{
+  font-family: 'Arimo', sans-serif;
+  font-weight: 700;
+  font-size: 1.4em;
+}
+.idea-desc{
+  font-family: 'Nunito Sans', sans-serif;
+  font-weight: 300;
+  font-size: 1.2em;
+}
+
+.idea-lang{
+  font-family: 'Roboto Mono', monospace;
+  font-weight: 600;
+}
+
+.searchBar{
+  width: 60%;
+  border-radius: 50px;
+  height: 40px;
+  padding: 10px;
+  font-family: 'Roboto Mono', monospace;
+  font-weight: 600;
+  margin-top: 14px;
+  margin-bottom: 20px;
+  z-index: 1;
+  position: relative;
+}
+
+.App {
+  text-align: center;
+  background-color: rgba(156, 161, 155, 0.13);
+}
+
+.content-container{
+  background-color: rgba(248, 248, 14, 0.932);
+  border-radius: 30px;
+  padding: 15px;
+  z-index: 0;
+}
+
+.footer{
+  padding: 0px;
+}
+.footer-txt{
+  font-family: 'Roboto Mono', monospace;
+  font-size: 0.8em;
+  padding: 8px;
+  margin-bottom: 0px;
+}
+.footer a{
+  color: #fff;
+}
