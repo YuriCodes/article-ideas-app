@@ -1,5 +1,13 @@
 # Article Ideas App
 
+## Live site: https://technical-writing-ideas.netlify.app/
+
+![Screenshot (292)](https://user-images.githubusercontent.com/80093500/164814585-73bccc9e-02fd-469d-a03a-fd1e16d07f72.png)
+
+This app was made using REACT + A custom made API to fetch different prompt ideas for those days when inspiration is running short. 
+If you have any idea you want to submit make a PR to my API here: https://github.com/YuriCodes/article-ideas-api
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
